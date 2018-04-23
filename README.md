@@ -83,10 +83,10 @@ Challenges include:
     
 ## Project Flowchart 
 
-![wireframe1](https://imgur.com/a/g6MgZee)
-![wireframe2](https://imgur.com/a/0henIFD)
-![wireframe3](https://imgur.com/a/LI8Ar8w)
-![wireframe4](https://imgur.com/a/2YShkTY)
+![Imgur1](https://i.imgur.com/XjPiO7J.png)
+![Imgur2](https://i.imgur.com/aClw1kt.png)
+![Imgur3](https://i.imgur.com/ECvZFBy.png)
+![Imgur4](https://i.imgur.com/lwnYAy6.png)
 
 ## Group Members and Work Breakdown
 
