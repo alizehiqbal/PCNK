@@ -83,6 +83,11 @@ Challenges include:
     
 ## Project Flowchart 
 
+![wireframe1]https://imgur.com/a/g6MgZee
+![wireframe2]https://imgur.com/a/0henIFD
+![wireframe3]https://imgur.com/a/LI8Ar8w
+![wireframe4]https://imgur.com/a/2YShkTY
+
 ## Group Members and Work Breakdown
 
 Mattie Holtzer, Yangchen Shen, Carolyn, Alizeh Iqbal
